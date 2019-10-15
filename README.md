@@ -11,5 +11,5 @@
 
 |   | No. Alumno | Apellidos | Nombre | Usuario Github | % participación |
 | --- | --- | --- | --- | --- | --- |
-|  1 |         |            |   |         |  |
-|  2 |         |            |   |         |  |
+|  1 | 201710053 | Torres Tito | Leonardo Joel  | Lion2407  | %50 |
+|  2 | 201820103 | Ponce Sanchez | Max Albert  | TheMecz | %50 |
